@@ -1,6 +1,6 @@
 #Slic3r configs for MidsouthMakers
 
-#Working Version
+##Working Version
 0.9.9
 
 ##Description
